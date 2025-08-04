@@ -1,2 +1,2 @@
 # sales-forcasting-ai
-clean and professional
+Sales foracsting project using AI and data analysis tecnique
