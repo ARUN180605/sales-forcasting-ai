@@ -24,4 +24,4 @@ Used from [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 3. Run all cells in Jupyter Notebook
 
 ## 👨‍💻 Author
-Arun C – B.Tech AI & DS Student
+Arun C
